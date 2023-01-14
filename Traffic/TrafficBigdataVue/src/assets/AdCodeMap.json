@@ -1,0 +1,20 @@
+{
+  "data": [
+    {"adCode":"110101","mapTo":"东城区"},
+    {"adCode":"110102","mapTo":"西城区"},
+    {"adCode":"110105","mapTo":"朝阳区"},
+    {"adCode":"110106","mapTo":"丰台区"},
+    {"adCode":"110107","mapTo":"石景山区"},
+    {"adCode":"110108","mapTo":"海淀区"},
+    {"adCode":"110109","mapTo":"门头沟区"},
+    {"adCode":"110111","mapTo":"房山区"},
+    {"adCode":"110112","mapTo":"通州区"},
+    {"adCode":"110113","mapTo":"顺义区"},
+    {"adCode":"110114","mapTo":"昌平区"},
+    {"adCode":"110115","mapTo":"大兴区"},
+    {"adCode":"110116","mapTo":"怀柔区"},
+    {"adCode":"110117","mapTo":"平谷区"},
+    {"adCode":"110118","mapTo":"密云区"},
+    {"adCode":"110119","mapTo":"延庆区"}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "data":[
+    {"direction": "东->西"},
+    {"direction": "西->东"},
+    {"direction": "北->南"},
+    {"direction": "南->北"}
+  ]
+}

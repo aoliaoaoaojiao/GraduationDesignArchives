@@ -1,0 +1,8 @@
+{
+  "data":[
+    {"grade":"1","roadType":"快速路"},
+    {"grade":"2","roadType":"主干路"},
+    {"grade":"3","roadType":"次干路"},
+    {"grade":"4","roadType":"支路"}
+  ]
+}
